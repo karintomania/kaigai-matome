@@ -1,0 +1,12 @@
+<div>
+  <div>
+    <span class="text-primary-700 font-bold mr-5">{{- .Get "userName" -}}</span>
+    <span>{{- .Get "createdAt" -}}</span>
+  </div>
+  <p
+    class="text-lg font-bold 
+text-primary-700    {{ if .Get "color" }} text-primary-700 {{end}}"
+    >
+  {{ strings.Replace (.Get "body") "\\n" "<br><br>" | safeHTML }}
+  </p>
+</div>

@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  hugo:
+    build:
+      context: .
+      # target: install-dart-sass
+    image: hugo-dart-sass:latest
+    container_name: hugo_container
+    volumes:
+      - .:/app
+    working_dir: /app
+    entrypoint: ["hugo", "serve", "--bind", "0.0.0.0", "--buildDrafts"]
+    ports:
+      - "1313:1313"

@@ -1,6 +1,6 @@
 +++
 date = '2025-02-07T00:00:01'
-draft = true
+draft = false
 title = '「AIを駆使して文化を守る！先住民族エンジニアたちの挑戦」'
 tags = ['tag1', 'tag2']
 +++

@@ -1,6 +1,6 @@
 +++
 date = '2025-02-09T00:00:00'
-draft = true
+draft = false
 title = '現代の予言者か、それともただのハッタリ？ChatGPT時代を生き抜く方法'
 tags = ["AI", "ChatGPT", "テクノロジー", "人工知能", "ライフハック"]
 +++

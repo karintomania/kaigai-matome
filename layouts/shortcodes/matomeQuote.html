@@ -5,12 +5,7 @@
   </div>
   <p
     class="text-lg font-bold"
-    style="color:{{- if .Get "color" -}}
-      {{- $colors := slice "#38d3d3" "#ff5733" "#45d325" "#785bff" "#ff33a1"  "#ff5c5c" -}}
-      {{- index $colors (mod (now.UnixNano | int) (len $colors)) -}}
-      {{- else -}}
-        inherit
-      {{- end -}}
+    style="color:{{- if .Get "color" -}} {{- .Get "color" -}} {{- end -}}
     ">  {{ .Get "body" | markdownify}}
   </p>
 </div>

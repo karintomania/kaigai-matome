@@ -3,6 +3,7 @@ date = '2025-02-12T00:00:00'
 draft = false
 title = '話題のElevenReaderとは？最新の読書体験を手に入れよう！'
 tags = ["テクノロジー", "読書", "アプリ", "AI", "ライティング"]
+featureimage = 'thumbnails/blue4.jpg'
 +++
 
 > 話題のElevenReaderとは？最新の読書体験を手に入れよう！

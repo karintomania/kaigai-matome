@@ -3,6 +3,7 @@ date = '2025-02-13T00:00:00'
 draft = false
 title = 'DOGEは国家的なサイバー攻撃なのか？'
 tags = ["DOGE", "サイバー攻撃", "暗号通貨", "セキュリティ", "テクノロジー"]
+featureimage = 'thumbnails/light-orange1.jpg'
 +++
 
 > DOGEは国家的なサイバー攻撃なのか？

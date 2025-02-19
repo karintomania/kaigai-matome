@@ -3,6 +3,7 @@ date = '2025-02-12T00:00:00'
 draft = false
 title = 'WASMがコンテナに取って代わる時が来た！その理由とは？'
 tags = ["WASM", "コンテナ", "テクノロジー", "プログラミング", "開発"]
+featureimage = 'thumbnails/light_colour2.jpg'
 +++
 
 > WASMがコンテナに取って代わる時が来た！その理由とは？

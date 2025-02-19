@@ -3,6 +3,7 @@ date = '2025-02-13T00:00:00'
 draft = false
 title = 'Asahi Linuxプロジェクトリーダー辞任の衝撃！背後にある真実とは？'
 tags = ["Asahi Linux", "オープンソース", "テクノロジー", "開発", "リーダーシップ"]
+featureimage = 'thumbnails/blue3.jpg'
 +++
 
 > Asahi Linuxプロジェクトリーダー辞任の衝撃！背後にある真実とは？

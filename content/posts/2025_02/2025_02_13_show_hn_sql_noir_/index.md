@@ -3,6 +3,7 @@ date = '2025-02-13T00:00:00'
 draft = false
 title = 'SQLを学びながら犯罪を解決！？新感覚ゲーム『SQL Noir』の魅力とは！'
 tags = ["SQL", "プログラミング", "ゲーム", "学習", "テクノロジー"]
+featureimage = 'thumbnails/blue_green5.jpg'
 +++
 
 > SQLを学びながら犯罪を解決！？新感覚ゲーム『SQL Noir』の魅力とは！

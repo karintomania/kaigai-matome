@@ -3,6 +3,7 @@ date = '2025-02-13T00:00:00'
 draft = false
 title = 'Nvidiaが提案する！C言語を使わない未来とは？'
 tags = ["Nvidia", "セキュリティ", "プログラミング", "C言語", "技術革新"]
+featureimage = 'thumbnails/orange_pink2.jpg'
 +++
 
 > Nvidiaが提案する！C言語を使わない未来とは？

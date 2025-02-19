@@ -3,6 +3,7 @@ date = '2025-02-11T00:00:00'
 draft = false
 title = 'NvidiaのRTX 5090電源コネクタが溶ける危険とは！？'
 tags = ["Nvidia", "RTX 5090", "ハードウェア", "電源", "トラブル", "技術", "PCパーツ", "ゲーミング", "ニュース", "エンジニアリング"]
+featureimage = 'thumbnails/purple2.jpg'
 +++
 
 > NvidiaのRTX 5090電源コネクタが溶ける危険とは！？

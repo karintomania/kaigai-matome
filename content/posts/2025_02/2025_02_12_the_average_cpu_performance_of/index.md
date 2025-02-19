@@ -3,6 +3,7 @@ date = '2025-02-12T00:00:00'
 draft = false
 title = 'PCとノートパソコンの平均CPU性能が初めて下降！これは驚きの現象？'
 tags = ["CPU", "パフォーマンス", "テクノロジー", "PC", "ノートパソコン"]
+featureimage = 'thumbnails/color4.jpg'
 +++
 
 > PCとノートパソコンの平均CPU性能が初めて下降！これは驚きの現象？

@@ -3,6 +3,7 @@ date = '2025-02-09T00:00:00'
 draft = false
 title = 'LIMOとは？少ない情報でより良い推論を実現する方法'
 tags = ["人工知能", "機械学習", "研究", "アルゴリズム", "データサイエンス", "学術論文"]
+featureimage = 'thumbnails/orange1.jpg'
 +++
 
 > LIMOとは？少ない情報でより良い推論を実現する方法

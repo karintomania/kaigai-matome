@@ -3,6 +3,7 @@ date = '2025-02-12T00:00:00'
 draft = false
 title = '私が生き残れなかった一年'
 tags = ["サバイバル", "体験談", "人生の教訓", "心の健康", "困難を乗り越える"]
+featureimage = 'thumbnails/cyan4.jpg'
 +++
 
 > 私が生き残れなかった一年

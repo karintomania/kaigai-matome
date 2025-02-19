@@ -3,6 +3,7 @@ date = '2025-02-09T00:00:00'
 draft = false
 title = 'ターミナルでよくあるイライラの原因とは？'
 tags = ["ターミナル", "プログラミング", "開発者"]
+featureimage = 'thumbnails/blue2.jpg'
 +++
 
 > ターミナルでよくあるイライラの原因とは？

@@ -3,6 +3,7 @@ date = '2025-02-10T00:00:00'
 draft = false
 title = 'ChatGPTを徹底解説！Andrej Karpathyが語るLLMのすべてとは？'
 tags = ["AI", "ChatGPT", "LLM", "機械学習", "自然言語処理", "テクノロジー", "データサイエンス", "教育", "Andrej Karpathy", "情報整理"]
+featureimage = 'thumbnails/blue4.jpg'
 +++
 
 > ChatGPTを徹底解説！Andrej Karpathyが語るLLMのすべてとは？

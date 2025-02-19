@@ -3,6 +3,7 @@ date = '2025-02-13T00:00:00'
 draft = false
 title = 'LibreOfficeが40年目にして進化！ブラウザ機能とリアルタイムコラボが登場！'
 tags = ["ソフトウェア", "コラボレーション", "LibreOffice", "テクノロジー", "オープンソース"]
+featureimage = 'thumbnails/orange1.jpg'
 +++
 
 > LibreOfficeが40年目にして進化！ブラウザ機能とリアルタイムコラボが登場！

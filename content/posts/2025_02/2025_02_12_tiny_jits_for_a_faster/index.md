@@ -3,6 +3,7 @@ date = '2025-02-12T00:00:00'
 draft = false
 title = '驚きのパフォーマンス向上！小さなJITでFFIが劇的に速くなる秘訣とは？'
 tags = ["JITコンパイラ", "FFI", "パフォーマンス", "プログラミング", "開発ツール"]
+featureimage = 'thumbnails/cyan_orange2.jpg'
 +++
 
 > 驚きのパフォーマンス向上！小さなJITでFFIが劇的に速くなる秘訣とは？

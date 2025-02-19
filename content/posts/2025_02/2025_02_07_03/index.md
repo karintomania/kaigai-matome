@@ -3,6 +3,8 @@ date = '2025-02-07T00:00:00'
 draft = false
 title = '「Metaの超大規模インフラを徹底解説！知られざる真実と最前線の洞察とは？」'
 tags = ['Meta', 'インフラストラクチャ']
+featureimage = 'thumbnails/orange_pink1.jpg'
+
 +++
 
 > 「Metaの超大規模インフラを徹底解説！知られざる真実と最前線の洞察とは？」

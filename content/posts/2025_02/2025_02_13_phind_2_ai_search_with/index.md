@@ -3,6 +3,7 @@ date = '2025-02-13T00:00:00'
 draft = false
 title = '視覚的に答えが得られる！AI検索Phind 2がマルチステップ推論を実現'
 tags = ["AI", "検索エンジン", "技術", "視覚化", "マルチステップ"]
+featureimage = 'thumbnails/purple1.jpg'
 +++
 
 > 視覚的に答えが得られる！AI検索Phind 2がマルチステップ推論を実現

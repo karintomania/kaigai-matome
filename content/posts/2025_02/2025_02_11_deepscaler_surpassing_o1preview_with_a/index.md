@@ -3,6 +3,7 @@ date = '2025-02-11T00:00:00'
 draft = false
 title = '1.5BモデルでRLを活用しO1-Previewを超える！DeepScaleRの驚異的な成果とは？'
 tags = ["AI", "機械学習", "強化学習", "データサイエンス", "モデルスケーリング", "技術革新", "DeepLearning", "研究成果", "パフォーマンス向上", "トレンド"]
+featureimage = 'thumbnails/light_colour4.jpg'
 +++
 
 > 1.5BモデルでRLを活用しO1-Previewを超える！DeepScaleRの驚異的な成果とは？

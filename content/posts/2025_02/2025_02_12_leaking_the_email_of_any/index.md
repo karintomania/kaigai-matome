@@ -3,6 +3,7 @@ date = '2025-02-12T00:00:00'
 draft = false
 title = 'たったの1万ドルでYouTubeユーザーのメールが簡単に手に入る！その真相とは？'
 tags = ["セキュリティ", "YouTube", "プライバシー", "ハッキング", "情報漏洩"]
+featureimage = 'thumbnails/blue_green3.jpg'
 +++
 
 > たったの1万ドルでYouTubeユーザーのメールが簡単に手に入る！その真相とは？

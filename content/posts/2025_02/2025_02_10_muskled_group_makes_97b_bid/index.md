@@ -3,6 +3,7 @@ date = '2025-02-10T00:00:00'
 draft = false
 title = 'マスク率いるグループがOpenAIを支配するために970億ドルの強烈な入札を実施！'
 tags = ["AI", "OpenAI", "イーロン・マスク", "ビジネス", "テクノロジー", "投資", "ニュース", "企業戦略", "革新", "競争"]
+featureimage = 'thumbnails/orange_pink3.jpg'
 +++
 
 > マスク率いるグループがOpenAIを支配するために970億ドルの強烈な入札を実施！

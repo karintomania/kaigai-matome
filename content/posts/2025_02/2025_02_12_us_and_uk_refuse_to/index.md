@@ -3,6 +3,7 @@ date = '2025-02-12T00:00:00'
 draft = false
 title = '米英がAI安全宣言にサインせず！サミットで何が起こったのか？'
 tags = ["AI", "安全", "国際問題", "技術政策", "サミット"]
+featureimage = 'thumbnails/green1.jpg'
 +++
 
 > 米英がAI安全宣言にサインせず！サミットで何が起こったのか？

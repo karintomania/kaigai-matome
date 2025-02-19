@@ -1,11 +1,11 @@
 +++
 date = '2025-02-12T00:00:00'
 draft = false
-title = 'ついに！PCとノートパソコンの平均CPU性能が初めて下降！これは驚きの現象？'
+title = 'PCとノートパソコンの平均CPU性能が初めて下降！これは驚きの現象？'
 tags = ["CPU", "パフォーマンス", "テクノロジー", "PC", "ノートパソコン"]
 +++
 
-> ついに！PCとノートパソコンの平均CPU性能が初めて下降！これは驚きの現象？
+> PCとノートパソコンの平均CPU性能が初めて下降！これは驚きの現象？
 
 引用元：[https://news.ycombinator.com/item?id=43029474](https://news.ycombinator.com/item?id=43029474)
 

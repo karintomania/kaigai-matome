@@ -17,7 +17,7 @@ title = "海外テックの反応まとめ"
 [params.author]
   name = "海外テックの反応まとめ"
 #   email = "youremail@example.com"
-  image = "icon_bg.png"
+  image = "icon.png"
 #   imageQuality = 96
   headline = "テック系ニュースに対する海外の反応まとめ"
   bio = "暇つぶしがてらに読むだけで海外のテックニュースに詳しくなれるまとめサイトです。"

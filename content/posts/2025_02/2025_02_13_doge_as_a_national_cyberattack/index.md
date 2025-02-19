@@ -1,11 +1,11 @@
 +++
 date = '2025-02-13T00:00:00'
 draft = false
-title = 'DOGEが国家を揺るがすサイバー攻撃の切り札に！その真相とは？'
+title = 'DOGEは国家的なサイバー攻撃なのか？'
 tags = ["DOGE", "サイバー攻撃", "暗号通貨", "セキュリティ", "テクノロジー"]
 +++
 
-> DOGEが国家を揺るがすサイバー攻撃の切り札に！その真相とは？
+> DOGEは国家的なサイバー攻撃なのか？
 
 引用元：[https://news.ycombinator.com/item?id=43035977](https://news.ycombinator.com/item?id=43035977)
 

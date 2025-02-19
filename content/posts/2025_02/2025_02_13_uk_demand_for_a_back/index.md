@@ -1,11 +1,11 @@
 +++
 date = '2025-02-13T00:00:00'
 draft = false
-title = 'イギリスがAppleデータの裏口要求！アメリカ人に迫る危険とは？'
+title = 'イギリスがAppleにバックドアを要求！'
 tags = ["プライバシー", "テクノロジー", "法律", "セキュリティ", "国際関係"]
 +++
 
-> イギリスがAppleデータの裏口要求！アメリカ人に迫る危険とは？
+> イギリスがAppleにバックドアを要求！
 
 引用元：[https://news.ycombinator.com/item?id=43036434](https://news.ycombinator.com/item?id=43036434)
 

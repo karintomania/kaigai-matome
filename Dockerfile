@@ -51,12 +51,13 @@ RUN groupadd -g ${GID} appuser && \
     useradd -m -u ${UID} -g appuser -s /bin/bash appuser
 
 # Copy Dart Sass from install-dart-sass stage
-COPY --from=install-dart-sass /usr/local/bin/ /usr/local/bin/
+# COPY --from=install-dart-sass /usr/local/bin/ /usr/local/bin/
 
 # Copy Hugo from install-hugo stage
 COPY --from=install-hugo /usr/local/bin/ /usr/local/bin/
 # Verify installations
-RUN hugo version && sass --version
+# RUN hugo version && sass --version
+RUN hugo version 
 
 # Change ownership of the /app directory
 RUN chown -R appuser:appuser /app

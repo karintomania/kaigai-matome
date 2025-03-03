@@ -4,8 +4,7 @@ services:
   hugo:
     build:
       context: .
-      # target: install-dart-sass
-    image: hugo-dart-sass:latest
+    # image: hugo-dart-sass:latest
     container_name: hugo_container
     volumes:
       - .:/app

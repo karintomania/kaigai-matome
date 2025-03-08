@@ -18,7 +18,7 @@ enableEmoji = true
 
 timeout = 180
 
-# googleAnalytics = "G-XXXXXXXXX"
+googleAnalytics = "G-KHN1FM3GTN"
 
 [pagination]
   pagerSize = 100

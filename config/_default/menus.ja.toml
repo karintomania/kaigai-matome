@@ -15,15 +15,20 @@
   pageRef = "posts"
   weight = 10
 
-[[main]]
-  name = "カテゴリ"
-  pageRef = "categories"
-  weight = 20
+# [[main]]
+#   name = "カテゴリ"
+#   pageRef = "categories"
+#   weight = 20
 
 [[main]]
   name = "タグ"
   pageRef = "tags"
   weight = 30
+
+[[main]]
+  name = "月別アーカイブ"
+  pageRef = "months"
+  weight = 20
 
 #[[main]]
 #  name = "Parent"

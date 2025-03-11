@@ -21,7 +21,7 @@ title = "海外テックの反応まとめ"
 #   imageQuality = 96
   headline = "テック系ニュースに対する海外の反応まとめ"
   bio = "暇つぶしがてらに読むだけで海外のテックニュースに詳しくなれるまとめサイトです。"
-#   links = [
+  links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -61,13 +61,13 @@ title = "海外テックの反応まとめ"
 #     { steam = "https://steamcommunity.com/profiles/userid" },
 #     { telegram = "https://t.me/username" },
 #     { threads = "https://www.threads.net/@username" },
-#     { tiktok = "https://tiktok.com/@username" },
+    { tiktok = "https://tiktok.com/@kaigai.tech.matome" },
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
 #     { twitter = "https://twitter.com/username" },
-#     { x-twitter = "https://twitter.com/username" },
+    { x-twitter = "https://twitter.com/kaigai_tech" },
 #     { whatsapp = "https://wa.me/phone-number" },
-#     { youtube = "https://youtube.com/username" },
+    { youtube = "https://www.youtube.com/@%E6%B5%B7%E5%A4%96%E3%83%86%E3%83%83%E3%82%AF%E3%81%AE%E5%8F%8D%E5%BF%9C%E3%81%BE%E3%81%A8%E3%82%81%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-# ]
+]

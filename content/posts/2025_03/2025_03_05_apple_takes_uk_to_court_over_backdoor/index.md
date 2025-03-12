@@ -1,12 +1,12 @@
 +++
 date = '2025-03-05T00:00:00'
 draft = false
-title = 'Appleが英国を訴え！政府のバックドア要求に立ち向かう姿勢を示す'
+title = 'Appleが英国を訴えた！政府のバックドア要求に立ち向かう姿勢を示す'
 tags = ["Apple", "プライバシー", "法律", "セキュリティ", "クラウド"]
 featureimage = 'thumbnails/cyan4.jpg'
 +++
 
-> Appleが英国を訴え！政府のバックドア要求に立ち向かう姿勢を示す
+> Appleが英国を訴えた！政府のバックドア要求に立ち向かう姿勢を示す
 
 引用元：[https://news.ycombinator.com/item?id=43270079](https://news.ycombinator.com/item?id=43270079)
 

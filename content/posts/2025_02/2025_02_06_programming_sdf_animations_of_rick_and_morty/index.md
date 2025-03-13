@@ -1,5 +1,6 @@
 +++
 date = '2025-02-06T00:00:00'
+months = '2025/02'
 draft = false
 title = 'RickとMortyのSDFアニメーションをプログラミングしてみた！その魅力とは？'
 tags = ["アニメーション", "プログラミング", "SDF", "Shader", "Rick and Morty"]

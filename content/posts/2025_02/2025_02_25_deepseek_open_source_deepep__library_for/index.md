@@ -1,5 +1,6 @@
 +++
 date = '2025-02-25T00:00:00'
+months = '2025/02'
 draft = false
 title = 'DeepSeekがMoEトレーニングと推論のためのオープンソースライブラリDeepEPを発表！パフォーマンスを極限まで引き上げる最先端技術とは？'
 tags = ["AI", "オープンソース", "機械学習", "DeepEP", "MoE"]

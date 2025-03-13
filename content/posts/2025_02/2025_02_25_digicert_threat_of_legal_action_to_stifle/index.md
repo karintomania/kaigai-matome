@@ -1,5 +1,6 @@
 +++
 date = '2025-02-25T00:00:00'
+months = '2025/02'
 draft = false
 title = 'DigiCertの法的脅威がBugzillaの議論を妨げる？業界からの反発続出！'
 tags = ["DigiCert", "Bugzilla", "WebPKI", "セキュリティ", "法律"]

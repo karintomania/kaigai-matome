@@ -1,5 +1,6 @@
 +++
 date = '2025-02-08T00:00:00'
+months = '2025/02'
 draft = false
 title = 'VSCodeのSSHエージェントはおかしい！'
 tags = ["VSCode", "SSH", "エージェント", "開発ツール", "プログラミング"]

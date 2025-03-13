@@ -1,5 +1,6 @@
 +++
 date = '2025-02-19T00:00:00'
+months = '2025/02'
 draft = false
 title = 'AppleがiPhone 16eを発表！新機能やデザインは？'
 tags = ["Apple", "iPhone", "新製品", "テクノロジー", "発表"]

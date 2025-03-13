@@ -1,5 +1,6 @@
 +++
 date = '2025-02-19T00:00:00'
+months = '2025/02'
 draft = false
 title = 'Gatsby開発者によるオープンソースJSエージェントフレームワークMastraとは？'
 tags = ["オープンソース", "JavaScript", "フレームワーク", "Gatsby", "Web開発"]

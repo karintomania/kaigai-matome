@@ -1,5 +1,6 @@
 +++
 date = '2025-02-15T00:00:00'
+months = '2025/02'
 draft = false
 title = '20年前のPSPが最新のWPA2 WiFiネットワークに接続可能に！'
 tags = ["PSP", "WiFi", "ゲーム", "レトロ", "テクノロジー"]

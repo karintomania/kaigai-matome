@@ -1,5 +1,6 @@
 +++
 date = '2025-02-25T00:00:00'
+months = '2025/02'
 draft = false
 title = 'Framework初のデスクトップはユニークなミニITXゲーミングPCに！'
 tags = ["デスクトップPC", "ゲーミング", "Framework", "ハードウェア", "モジュラーデザイン"]

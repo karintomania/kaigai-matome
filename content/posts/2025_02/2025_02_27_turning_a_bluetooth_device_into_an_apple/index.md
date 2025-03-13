@@ -1,5 +1,6 @@
 +++
 date = '2025-02-27T00:00:00'
+months = '2025/02'
 draft = false
 title = 'ルート権限なしでBluetoothデバイスをAppleのAirTagに変身させる方法とは？'
 tags = ["Bluetooth", "AirTag", "セキュリティ", "ハッキング", "技術"]

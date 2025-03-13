@@ -1,5 +1,6 @@
 +++
 date = '2025-02-26T00:00:00'
+months = '2025/02'
 draft = false
 title = 'VS CodeマーケットプレイスからMaterial Themeが削除！悪意あるコードが発見された理由とは？'
 tags = ["VS Code", "セキュリティ", "拡張機能", "開発者", "悪意のあるコード"]

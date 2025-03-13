@@ -1,5 +1,6 @@
 +++
 date = '2025-02-18T00:00:00'
+months = '2025/02'
 draft = false
 title = 'ValveがTeam Fortress 2のコードを公開！開発者たちに新たなチャンスが到来？'
 tags = ["Valve", "Team Fortress 2", "ゲーム開発", "オープンソース", "プログラミング"]

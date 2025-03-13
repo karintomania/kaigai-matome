@@ -1,5 +1,6 @@
 +++
 date = '2025-02-06T00:00:00'
+months = '2025/02'
 draft = false
 title = 'PDFの中でLinuxが動く！驚きのハッキングに迫る'
 tags = ["Linux", "PDF", "ハッキング", "プログラミング", "技術ニュース"]

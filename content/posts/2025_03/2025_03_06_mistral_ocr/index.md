@@ -1,5 +1,6 @@
 +++
 date = '2025-03-06T00:00:00'
+months = '2025/03'
 draft = false
 title = 'Mistral OCRの実力とは？新しいOCRモデルがもたらす変革と課題'
 tags = ["OCR", "AI", "テクノロジー", "ベンチマーク", "文書解析"]

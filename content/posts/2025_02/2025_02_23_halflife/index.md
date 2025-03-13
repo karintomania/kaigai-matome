@@ -1,5 +1,6 @@
 +++
 date = '2025-02-23T00:00:00'
+months = '2025/02'
 draft = false
 title = 'ゲームの金字塔「Half-Life」とは？その魅力に迫る！'
 tags = ["ゲーム", "Half-Life", "歴史", "レビュー", "FPS"]

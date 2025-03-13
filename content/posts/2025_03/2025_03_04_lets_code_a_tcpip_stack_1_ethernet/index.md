@@ -1,5 +1,6 @@
 +++
 date = '2025-03-04T00:00:00'
+months = '2025/03'
 draft = false
 title = '自分で作るTCP/IPスタック入門！第1回：EthernetとARPの基礎を徹底解説'
 tags = ["プログラミング", "ネットワーク", "TCP/IP", "教育", "開発"]

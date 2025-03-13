@@ -1,5 +1,6 @@
 +++
 date = '2025-03-01T00:00:00'
+months = '2025/03'
 draft = false
 title = 'Microsoft Azureを使わないべき400の理由とは？驚愕の体験談も紹介'
 tags = ["Microsoft", "クラウド", "Azure", "体験談", "ITトラブル"]

@@ -1,5 +1,6 @@
 +++
 date = '2025-03-02T00:00:00'
+months = '2025/03'
 draft = false
 title = 'NIH.govのDNSサーバーダウンでPubMedやBLASTが利用不能に、しかし復旧の兆しも'
 tags = ["NIH", "DNS", "PubMed", "科学", "システムダウン"]

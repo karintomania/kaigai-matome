@@ -1,5 +1,6 @@
 +++
 date = '2025-03-05T00:00:00'
+months = '2025/03'
 draft = false
 title = 'Tailscaleが便利すぎる！その理由とは？'
 tags = ["Tailscale", "VPN", "ネットワーク", "セキュリティ", "テクノロジー"]

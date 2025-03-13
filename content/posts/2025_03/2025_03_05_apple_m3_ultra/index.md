@@ -1,5 +1,6 @@
 +++
 date = '2025-03-05T00:00:00'
+months = '2025/03'
 draft = false
 title = 'AppleがM3 Ultraを発表！512GBの統一メモリがもたらす革新とは？'
 tags = ["Apple", "M3 Ultra", "AI", "テクノロジー", "ハードウェア"]

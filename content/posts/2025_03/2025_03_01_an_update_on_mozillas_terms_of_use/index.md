@@ -1,5 +1,6 @@
 +++
 date = '2025-03-01T00:00:00'
+months = '2025/03'
 draft = false
 title = 'MozillaがFirefoxの利用規約を大幅改訂！プライバシーにどう影響するのか？'
 tags = ["プライバシー", "Mozilla", "Firefox", "利用規約", "データ共有"]

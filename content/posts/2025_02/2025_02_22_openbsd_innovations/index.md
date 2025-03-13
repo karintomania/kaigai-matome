@@ -1,5 +1,6 @@
 +++
 date = '2025-02-22T00:00:00'
+months = '2025/02'
 draft = false
 title = 'OpenBSDの革新に迫る！今注目の技術とは？'
 tags = ["OpenBSD", "技術", "セキュリティ", "オープンソース", "革新"]

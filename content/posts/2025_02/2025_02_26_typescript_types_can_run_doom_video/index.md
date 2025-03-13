@@ -1,5 +1,6 @@
 +++
 date = '2025-02-26T00:00:00'
+months = '2025/02'
 draft = false
 title = 'TypeScriptの型でDOOMが動くなんて！驚愕の成果に迫る'
 tags = ["TypeScript", "DOOM", "プログラミング", "技術", "プロジェクト"]

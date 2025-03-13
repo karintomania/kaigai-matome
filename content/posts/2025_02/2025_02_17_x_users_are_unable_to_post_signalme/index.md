@@ -1,5 +1,6 @@
 +++
 date = '2025-02-17T00:00:00'
+months = '2025/02'
 draft = false
 title = 'Xユーザーが“Signal.me”リンクを投稿できない原因とは？'
 tags = ["SNS", "トラブル", "リンク", "コミュニケーション", "Signal"]

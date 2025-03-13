@@ -1,5 +1,6 @@
 +++
 date = '2025-02-15T00:00:00'
+months = '2025/02'
 draft = false
 title = 'Jane Streetが贈る神秘のカードゲーム！Figgieの魅力とは？'
 tags = ["ゲーム", "カードゲーム", "Jane Street", "戦略", "エンターテインメント"]

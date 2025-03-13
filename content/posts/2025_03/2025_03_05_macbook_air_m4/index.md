@@ -1,5 +1,6 @@
 +++
 date = '2025-03-05T00:00:00'
+months = '2025/03'
 draft = false
 title = 'MacBook Air M4がついに登場！スリムなのに高性能なノートパソコンの選択肢はAppleだけ？'
 tags = ["MacBook", "Apple", "ノートパソコン", "テクノロジー", "ハードウェア"]

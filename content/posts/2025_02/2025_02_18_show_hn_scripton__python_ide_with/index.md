@@ -1,5 +1,6 @@
 +++
 date = '2025-02-18T00:00:00'
+months = '2025/02'
 draft = false
 title = 'Scripton登場！リアルタイム可視化機能を備えたPython IDEとは'
 tags = ["Python", "IDE", "可視化", "プログラミング", "開発ツール"]

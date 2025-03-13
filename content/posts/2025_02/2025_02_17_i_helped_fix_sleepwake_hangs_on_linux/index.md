@@ -1,5 +1,6 @@
 +++
 date = '2025-02-17T00:00:00'
+months = '2025/02'
 draft = false
 title = 'AMD GPUでLinuxのスリープ問題'
 tags = ["Linux", "AMD", "GPU", "スリープ", "トラブルシューティング"]

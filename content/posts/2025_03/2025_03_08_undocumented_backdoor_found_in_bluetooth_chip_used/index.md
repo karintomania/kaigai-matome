@@ -2,12 +2,12 @@
 date = '2025-03-08T00:00:00'
 months = '2025/03'
 draft = false
-title = '一億台以上のデバイスに使われるBluetoothチップに発見された未文書のバイパス機能とは'
+title = '一億台以上のデバイスに使われるBluetoothチップに発見されたドキュメントにないバックドアとは'
 tags = ["Bluetooth", "セキュリティ", "ハードウェア", "テクノロジー", "研究"]
 featureimage = 'thumbnails/orange3.jpg'
 +++
 
-> 一億台以上のデバイスに使われるBluetoothチップに発見された未文書のバイパス機能とは
+> 一億台以上のデバイスに使われるBluetoothチップに発見されたドキュメントにないバックドアとは
 
 引用元：[https://news.ycombinator.com/item?id=43301369](https://news.ycombinator.com/item?id=43301369)
 

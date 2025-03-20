@@ -2,12 +2,12 @@
 date = '2025-03-13T00:00:00'
 months = '2025/03'
 draft = false
-title = '普通のエンジニアが素晴らしいチームを作る鍵とは'
+title = '普通のエンジニアが素晴らしいチームを作る鍵？'
 tags = ["エンジニアリング", "チームワーク", "生産性", "ソフトウェア開発", "働き方"]
 featureimage = 'thumbnails/blue_green2.jpg'
 +++
 
-> 普通のエンジニアが素晴らしいチームを作る鍵とは
+> 普通のエンジニアが素晴らしいチームを作る鍵？
 
 引用元：[https://news.ycombinator.com/item?id=43356995](https://news.ycombinator.com/item?id=43356995)
 

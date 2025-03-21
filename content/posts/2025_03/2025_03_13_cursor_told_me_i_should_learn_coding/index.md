@@ -2,12 +2,12 @@
 date = '2025-03-13T00:00:00'
 months = '2025/03'
 draft = false
-title = 'Cursorが教えてくれた！コーディングを学ぶべき理由とは'
+title = 'Cursorにプログラミングを勉強しろと怒られたんだが'
 tags = ["AI", "コーディング", "プログラミング", "労力", "学習"]
 featureimage = 'thumbnails/light-orange4.jpg'
 +++
 
-> Cursorが教えてくれた！コーディングを学ぶべき理由とは
+> Cursorにプログラミングを勉強しろと怒られたんだが
 
 引用元：[https://news.ycombinator.com/item?id=43351137](https://news.ycombinator.com/item?id=43351137)
 

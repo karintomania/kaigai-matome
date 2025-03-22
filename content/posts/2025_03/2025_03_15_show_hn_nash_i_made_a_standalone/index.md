@@ -11,7 +11,7 @@ featureimage = 'thumbnails/light_colour2.jpg'
 
 引用元：[https://news.ycombinator.com/item?id=43358914](https://news.ycombinator.com/item?id=43358914)
 
-{{<matomeQuote body="このシンプルだけどパワフルな属性のおかげで、多くの処理が楽になるんだよね。意外と知らない開発者が多いみたいだけど、結構前からあるんだよ。<div id=“editor” contenteditable=“true”>" userName="hliyan" createdAt="2025-03-16T04:22:13" color="">}}
+{{<matomeQuote body="このシンプルだけどパワフルな属性のおかげで、多くの処理が楽になるんだよね。意外と知らない開発者が多いみたいだけど、結構前からあるんだよ。＜div id=“editor” contenteditable=“true”＞" userName="hliyan" createdAt="2025-03-16T04:22:13" color="">}}
 
 {{<matomeQuote body="この一行が、Writely（Google Docsになる前のスタートアップ）のオリジナル実装の9割を占めてたんだよ（ソースは創業者の一人であるオレ）。<br>残りの9割は、ブラウザごとに独自のバグがあるcontenteditableの実装を、ちゃんと同期させるためのバックエンドコードだったけどね！" userName="snewman" createdAt="2025-03-16T14:56:37" color="#785bff">}}
 
@@ -90,7 +90,7 @@ featureimage = 'thumbnails/light_colour2.jpg'
 
 {{<matomeQuote body="ランタイムやOSもファイルで構成されてるんだよ。" userName="Timwi" createdAt="2025-03-20T10:18:31" color="">}}
 
-{{<matomeQuote body="これ、マジでクールじゃん！なんか変な話だけど、ウェブサイトのJSってHTMLの外に書くのが当たり前になっちゃってるから（少なくとも俺はそう）、これ見て最初に思ったのが「HTMLだけでこんなことできるの、マジか！」ってことだったんだよね。で、ソース見たら普通の<script>タグの中にJSが書いてあって、「ああ、そういえばこれってアリだったわ」って思い出した。" userName="genshii" createdAt="2025-03-16T00:01:52" color="#38d3d3">}}
+{{<matomeQuote body="これ、マジでクールじゃん！なんか変な話だけど、ウェブサイトのJSってHTMLの外に書くのが当たり前になっちゃってるから（少なくとも俺はそう）、これ見て最初に思ったのが「HTMLだけでこんなことできるの、マジか！」ってことだったんだよね。で、ソース見たら普通の＜script＞タグの中にJSが書いてあって、「ああ、そういえばこれってアリだったわ」って思い出した。" userName="genshii" createdAt="2025-03-16T00:01:52" color="#38d3d3">}}
 
 
 {{< /details >}}

@@ -2,12 +2,12 @@
 date = '2025-03-18T00:00:00'
 months = '2025/03'
 draft = false
-title = 'AppleTVでYouTube広告をブロックする裏技が発見される！Protobufの脆弱性を突く2022年の最新手法とは'
+title = 'AppleTVでYouTube広告をブロックする裏技が発見される！Protobufの脆弱性を突く手法とは'
 tags = ["YouTube", "AppleTV", "広告ブロック", "Protobuf", "リバースエンジニアリング"]
 featureimage = 'thumbnails/blue_green3.jpg'
 +++
 
-> AppleTVでYouTube広告をブロックする裏技が発見される！Protobufの脆弱性を突く2022年の最新手法とは
+> AppleTVでYouTube広告をブロックする裏技が発見される！Protobufの脆弱性を突く手法とは
 
 引用元：[https://news.ycombinator.com/item?id=43396735](https://news.ycombinator.com/item?id=43396735)
 

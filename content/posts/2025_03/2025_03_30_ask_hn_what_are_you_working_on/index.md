@@ -133,7 +133,7 @@ featureimage = 'thumbnails/blue_green4.jpg'
 
 {{<matomeQuote body="URLが抜けてるみたい？At: https://willadams.gitbook.io/design-into-3d/2d-drawing のリンク、https://mathcs.clarku.edu/~djoyce/java/elements/elements.htm... とかが「_Elements_ _:_ _Book I_ _:_ _Definition 1_」って表示されちゃってるよ。gitbookとかgithubの.mdソースがあるサイトなら、オリジナルを引っ張ってくるとかどう？" userName="WillAdams" createdAt="2025-03-31T13:04:29" color="">}}
 
-{{<matomeQuote body="<a>タグのhrefは、情報量が増えないのにトークン長が長くなるからデフォルトで削除してるんだ。近いうちに、リクエストヘッダーでリンクを削除するかどうか設定できるようにするよ。_はイタリックのせいだよ。" userName="andrethegiant" createdAt="2025-03-31T16:01:17" color="#ff5c5c">}}
+{{<matomeQuote body="aタグのhrefは、情報量が増えないのにトークン長が長くなるからデフォルトで削除してるんだ。近いうちに、リクエストヘッダーでリンクを削除するかどうか設定できるようにするよ。_はイタリックのせいだよ。" userName="andrethegiant" createdAt="2025-03-31T16:01:17" color="#ff5c5c">}}
 
 
 {{< /details >}}

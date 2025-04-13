@@ -13,9 +13,9 @@ featureimage = 'thumbnails/cyan1.jpg'
 
 {{<matomeQuote body="2000年代初頭のウェブ開発者としては、めっちゃ興奮してるんだよね。selectってHTMLじゃ再現できないことができるからさ。viewportの外にドロップダウンを表示できるとか、マジで助かる機能だわ。次はautocompleteとtag selector頼む!" userName="wolframhempel" createdAt="2025-03-31T15:14:52" color="#785bff">}}
 
-{{<matomeQuote body="記事によると、base-selectを使うと色々できなくなるみたい。<br>＞The <select> doesn’t render outside the browser pane. ... It doesn’t trigger built-in mobile operating system components.”<br>＞”<select>はブラウザの外に表示されないし、OSの機能も使えない”<br>モバイルユーザーは最適化されてないselectに備えろってことか。でもjavascript減らせるのは良いね。" userName="asddubs" createdAt="2025-03-31T15:22:48" color="">}}
+{{<matomeQuote body="記事によると、base-selectを使うと色々できなくなるみたい。<br>＞The ＜select＞ doesn’t render outside the browser pane. ... It doesn’t trigger built-in mobile operating system components.”<br>＞”＜select＞はブラウザの外に表示されないし、OSの機能も使えない”<br>モバイルユーザーは最適化されてないselectに備えろってことか。でもjavascript減らせるのは良いね。" userName="asddubs" createdAt="2025-03-31T15:22:48" color="">}}
 
-{{<matomeQuote body="＞The <select> doesn’t render outside the browser pane. ... It doesn’t trigger built-in mobile operating system components.”<br>＞”<select>がブラウザの外に表示されないとか、OSの機能を使えないとか、それって<select>じゃなくね？スタイリングは良いけど、これじゃ意味ないじゃん。" userName="cush" createdAt="2025-03-31T18:17:24" color="">}}
+{{<matomeQuote body="＞The ＜select＞ doesn’t render outside the browser pane. ... It doesn’t trigger built-in mobile operating system components.”<br>＞”＜select＞がブラウザの外に表示されないとか、OSの機能を使えないとか、それって＜select＞じゃなくね？スタイリングは良いけど、これじゃ意味ないじゃん。" userName="cush" createdAt="2025-03-31T18:17:24" color="">}}
 
 {{<matomeQuote body="スタイリングのオプションが全くないのと、ユーザーを危険に晒すオプションしかないんじゃなくて、その中間が欲しいよね。" userName="cush" createdAt="2025-04-02T16:24:36" color="">}}
 
@@ -72,7 +72,7 @@ featureimage = 'thumbnails/cyan1.jpg'
 
 {{<matomeQuote body="＞オートコンプリート機能も頼むわ<br>もうすぐできるんじゃない？datalist要素を見て。<br>＞https://developer.mozilla.org/en-US/docs/Web/HTML/Element/da…" userName="kkarpkkarp" createdAt="2025-03-31T17:37:10" color="">}}
 
-{{<matomeQuote body="<input type=“datetime-local”>で自動でISO8601のタイムゾーンオフセットが付くのが欲しい！" userName="preisschild" createdAt="2025-03-31T16:52:50" color="">}}
+{{<matomeQuote body="＜input type=“datetime-local”＞で自動でISO8601のタイムゾーンオフセットが付くのが欲しい！" userName="preisschild" createdAt="2025-03-31T16:52:50" color="">}}
 
 {{<matomeQuote body="ISO-8601は過去のローカル時間をシリアライズするには正しいフォーマットだけど、未来には向かないんだよね。<br>ローカルな日時ピッカーは未来の日時で使われることが多いと思う。<br>タイムゾーンオフセットじゃなくて、ゾーンIDが欲しい。そうすればバックエンドでdateとtzdataがうまく処理してくれる。" userName="sublinear" createdAt="2025-03-31T21:29:17" color="#38d3d3">}}
 
@@ -97,9 +97,9 @@ featureimage = 'thumbnails/cyan1.jpg'
 {{< details summary="もっとコメントを表示（2）">}}
 {{<matomeQuote body="＞The biggest thing though, is for the life of me I don’t understand why you can’t open and close a dialog without JavaScript. There’s no way to do it.<br>＞popover使えばJavaScriptなしでできるよ。<br>dialog要素はopen属性でデフォルトで開けるし、dialogフォームメソッド使えばボタンで閉じれる。JavaScriptいらないよ。<br>dialog要素をJavaScriptなしで開く方法はまだないけど、command/commandforがHTMLの仕様に追加されたらしい。" userName="JimDabell" createdAt="2025-03-31T23:06:31" color="#ff33a1">}}
 
-{{<matomeQuote body="マジそれな…こういうのが欲しい。<br><button type=”open-dialog” target=”dialogId”>Open Dialog</button><br>...<br><dialog id=”dialogId”><br> <button type=”close-dialog”>Close Dialog</button><br></dialog><br><br>マジでそれが一番理にかなってる。" userName="tracker1" createdAt="2025-03-31T20:53:51" color="">}}
+{{<matomeQuote body="マジそれな…こういうのが欲しい。<br>＜button type=”open-dialog” target=”dialogId”＞Open Dialog＜/button＞<br>...<br>＜dialog id=”dialogId”＞<br> ＜button type=”close-dialog”＞Close Dialog＜/button＞<br>＜/dialog＞<br><br>マジでそれが一番理にかなってる。" userName="tracker1" createdAt="2025-03-31T20:53:51" color="">}}
 
-{{<matomeQuote body="＞I'm with you... would be nice to have:<br>＞今すぐできるよ。<br>// 開くとき<br><button onclick=’document.querySelector(”#dialogId”).showModal()’>Open</button><br><br>// 閉じるとき<br><button onclick=’this.closest(”dialog”).close()’>Close</button><br><br>close()の結果を使えないのが問題なんだよね。ステータス返せるのに。<br>＞It would just make so much sense.<br>＞提案した方法も同じくらい理にかなってると思うけど。もし提案に問題があって、そっちの提案で解決できるなら教えてほしい。" userName="lelanthran" createdAt="2025-04-01T09:57:14" color="#45d325">}}
+{{<matomeQuote body="＞I'm with you... would be nice to have:<br>＞今すぐできるよ。<br>// 開くとき<br>＜button onclick=’document.querySelector(”#dialogId”).showModal()’＞Open＜/button＞<br><br>// 閉じるとき<br>＜button onclick=’this.closest(”dialog”).close()’＞Close＜/button＞<br><br>close()の結果を使えないのが問題なんだよね。ステータス返せるのに。<br>＞It would just make so much sense.<br>＞提案した方法も同じくらい理にかなってると思うけど。もし提案に問題があって、そっちの提案で解決できるなら教えてほしい。" userName="lelanthran" createdAt="2025-04-01T09:57:14" color="#45d325">}}
 
 {{<matomeQuote body="JavaScriptなしでやりたいって話でしょ。" userName="tracker1" createdAt="2025-04-02T19:40:12" color="">}}
 
@@ -109,7 +109,7 @@ featureimage = 'thumbnails/cyan1.jpg'
 
 {{<matomeQuote body="ADA準拠を気にする必要があるなら（いつも気にしてるけど、いつもお金もらえるわけじゃない）、これは対応が難しいかもね。昔のOperaはHTML5要素のサポートが最高だった。特に日付/時間の入力はマジで最高だった（他のもほぼ全部良かったけど）。 usabilityとかwebのことちゃんと考えてたOperaが売られちゃったの悲しい。" userName="progmetaldev" createdAt="2025-03-31T22:59:53" color="#785bff">}}
 
-{{<matomeQuote body="ユースケースごとに新しいHTML要素を作るのは違うと思うな。HTML要素を拡張できるようにするべき。<br>`appearance: base-select`っていうCSSルールのおかげで、HTMLとCSSで`<select>`を拡張する標準的な方法ができたし（JSに頼らなくても、コマンドを宣言的に呼び出すことでインタラクションも拡張できる可能性もある）。" userName="spartanatreyu" createdAt="2025-04-01T01:03:50" color="#ff5733">}}
+{{<matomeQuote body="ユースケースごとに新しいHTML要素を作るのは違うと思うな。HTML要素を拡張できるようにするべき。<br>`appearance: base-select`っていうCSSルールのおかげで、HTMLとCSSで`＜select＞`を拡張する標準的な方法ができたし（JSに頼らなくても、コマンドを宣言的に呼び出すことでインタラクションも拡張できる可能性もある）。" userName="spartanatreyu" createdAt="2025-04-01T01:03:50" color="#ff5733">}}
 
 {{<matomeQuote body="＞解決策はHTML要素を拡張できるようにすることだって？<br>Appleにこれ実装させるのが解決策でしょ：<br>https://developer.mozilla.org/en-US/docs/Web/HTML/Global_att..." userName="owebmaster" createdAt="2025-04-01T03:22:35" color="">}}
 
@@ -138,7 +138,7 @@ featureimage = 'thumbnails/cyan1.jpg'
 
 {{< /details >}}
 {{< details summary="もっとコメントを表示（3）">}}
-{{<matomeQuote body="おそらく、<div>ベースのコントロールをページに残して、必要に応じて<select>ベースのコントロールを隠したり、ブラウザごとに異なるHTMLを生成したりするんじゃないかな。" userName="simiones" createdAt="2025-03-31T14:31:09" color="">}}
+{{<matomeQuote body="おそらく、divベースのコントロールをページに残して、必要に応じて＜select＞ベースのコントロールを隠したり、ブラウザごとに異なるHTMLを生成したりするんじゃないかな。" userName="simiones" createdAt="2025-03-31T14:31:09" color="">}}
 
 {{<matomeQuote body="的外れかもしれないけど、開発者はどのユーザーがアプリを使っているかを考えるべきだと思う。インターネット全体が対象なら、後方互換性を考慮する必要がある。内部アプリなら、気にせずに新しいAPIを使うのもありじゃないかな。" userName="klysm" createdAt="2025-04-01T14:07:46" color="#45d325">}}
 
@@ -168,7 +168,7 @@ featureimage = 'thumbnails/cyan1.jpg'
 
 {{<matomeQuote body="良い例だね。カラーピッカーなんて何十、何百通りも発明されてるのに、アプリごとにちょっとずつ違うから毎回考え込んじゃうんだよね。シンプルなselectで色の名前が表示されるのが一番だよ。色見本が欲しいなら、横に置いてselectのイベントハンドラで更新すればいいじゃん。" userName="SoftTalker" createdAt="2025-03-31T19:19:30" color="">}}
 
-{{<matomeQuote body="それって客観的に見て悪化してるじゃん。「blue」が何を意味するのかわからないし、青色なんていっぱいあるし。「悪くしたい」ってのは説得力ないよ。開発者がアプリのニーズを記述できる一貫した文法を提供するのは、不必要な発明でも複雑さでも摩擦でもないよ。<br>技術の文法、つまり開発者が創造するために与えられたビルディングブロックのセットは、柔軟性と表現力のある意図とのバランスを取る必要がある。CSSの<select>はいい感じにバランスが取れてる。含めるのを非難するのは、機能よりも批判者について多くを語ってる。" userName="nickelpro" createdAt="2025-03-31T19:30:40" color="#38d3d3">}}
+{{<matomeQuote body="それって客観的に見て悪化してるじゃん。「blue」が何を意味するのかわからないし、青色なんていっぱいあるし。「悪くしたい」ってのは説得力ないよ。開発者がアプリのニーズを記述できる一貫した文法を提供するのは、不必要な発明でも複雑さでも摩擦でもないよ。<br>技術の文法、つまり開発者が創造するために与えられたビルディングブロックのセットは、柔軟性と表現力のある意図とのバランスを取る必要がある。CSSの＜select＞はいい感じにバランスが取れてる。含めるのを非難するのは、機能よりも批判者について多くを語ってる。" userName="nickelpro" createdAt="2025-03-31T19:30:40" color="#38d3d3">}}
 
 {{<matomeQuote body="名前だけじゃ色が伝わらないって。赤だって緑だって何百種類もあるんだから。一つずつクリックして色見本を確認するなんて面倒だよ。色見本付きのリストにするのが一番簡単じゃん。誰も考える必要ないし。" userName="crazygringo" createdAt="2025-03-31T19:26:19" color="#38d3d3">}}
 

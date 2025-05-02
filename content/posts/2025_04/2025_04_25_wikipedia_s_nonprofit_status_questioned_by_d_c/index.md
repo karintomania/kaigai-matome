@@ -2,12 +2,12 @@
 date = '2025-04-25T00:00:00'
 months = '2025/04'
 draft = false
-title = 'えっマジか Wikipediaの非営利団体 статусに米司法当局が待った なぜ今'
+title = 'えっマジか Wikipediaの非営利団体としての地位に米司法当局が待った なぜ今'
 tags = ["Wikipedia", "非営利団体", "司法", "アメリカ", "情報統制"]
 featureimage = 'thumbnails/green4.jpg'
 +++
 
-> えっマジか Wikipediaの非営利団体 статусに米司法当局が待った なぜ今
+> えっマジか Wikipediaの非営利団体としての地位に米司法当局が待った なぜ今
 
 引用元：[https://news.ycombinator.com/item?id=43799302](https://news.ycombinator.com/item?id=43799302)
 

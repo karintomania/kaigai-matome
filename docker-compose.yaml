@@ -2,6 +2,9 @@ services:
   hugo:
     build:
       context: .
+      args:
+        UID: 1000
+        GID: 1000
     # image: hugo-dart-sass:latest
     container_name: hugo_container
     volumes:

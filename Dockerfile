@@ -17,25 +17,6 @@ RUN curl -L $HUGO_DOWNLOAD_URL -o hugo.tar.gz && \
 # Verify installation
 RUN ./hugo version
 
-
-# Install Dart Sass -------------------------------
-FROM debian:bookworm-slim AS install-dart-sass
-
-ENV DART_SASS_VERSION=1.83.4
-
-ENV DART_SASS_DOWNLOAD_URL=https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz
-
-RUN apt-get update && apt-get install -y curl tar
-
-WORKDIR /usr/local/bin
-
-RUN curl -L $DART_SASS_DOWNLOAD_URL -o dart-sass.tar.gz && \
-    tar -xzvf dart-sass.tar.gz --strip-components=1 && \
-    rm dart-sass.tar.gz && \
-    chmod +x sass
-
-RUN ls -la && ./sass --version
-
 # Main image -------------------------------
 FROM golang:1.23
 
@@ -50,13 +31,9 @@ ARG GID=1001
 RUN groupadd -g ${GID} appuser && \
     useradd -m -u ${UID} -g appuser -s /bin/bash appuser
 
-# Copy Dart Sass from install-dart-sass stage
-# COPY --from=install-dart-sass /usr/local/bin/ /usr/local/bin/
-
 # Copy Hugo from install-hugo stage
 COPY --from=install-hugo /usr/local/bin/ /usr/local/bin/
 # Verify installations
-# RUN hugo version && sass --version
 RUN hugo version 
 
 # Change ownership of the /app directory

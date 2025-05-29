@@ -163,9 +163,6 @@ featureimage = 'thumbnails/light-orange3.jpg'
 
 
 
-
-{{< details summary="もっとコメントを表示（1）">}}
-
 {{<matomeQuote body="これは内輪ジョークだけど、本当の警告でもあるんだ。”Handwaving”ってやつ。何かを深く掘り下げてる人はみんな、発展途上の理論をうまく説明できなくて、分かってもらえるように手を振るみたいなジェスチャーでごまかしちゃう部分にたどり着くんだよ。" userName="3" createdAt="2025/05/22 16:43:32" color="#ff33a1">}}
 
 

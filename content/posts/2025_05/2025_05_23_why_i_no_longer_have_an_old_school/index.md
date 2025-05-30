@@ -385,11 +385,6 @@ featureimage = 'thumbnails/blue2.jpg'
 
 
 
-{{<matomeQuote body="Copilotが提案するのはこれだってさ：<br>`docker run --rm \`<br>`  -v /srv/mywebsite/certs:/acme.sh/certs \`<br>`  -v /srv/mywebsite/public/.well-known/acme- `<br>`  challenge:/acme-challenge \`<br>`  neilpang/acme.sh --issue \`<br>`  --webroot /acme-challenge \`<br>`  -d yourdomain.com \`<br>`  --cert-file /acme.sh/certs/cert.pem \`<br>`  --key-file /acme.sh/certs/key.pem \`<br>`  --fullchain-file /acme.sh/certs/fullchain.pem`<br><br>でも、なんで`neilpang`を提案してるのか分からないな。もう彼はフォーク持ってないのに。" userName="paul_h" createdAt="2025/05/24 07:33:53" color="">}}
-
-
-
-
 {{<matomeQuote body="いや、著者はACMEの仕様そのものに反対してるみたいだよ。クライアントの実装だけじゃなくてね。<br>そして、多くの不満は結局JWSが好きじゃないってことに尽きる。そして、彼女がそこで何を好むか、私はよく分からないな。ASN.1？それはもっと複雑じゃない？それとも実装が既存のライブラリを使えないような bespoke なフォーマット？" userName="thayne" createdAt="2025/05/24 03:16:50" color="#ff5c5c">}}
 
 

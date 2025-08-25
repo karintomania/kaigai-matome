@@ -2,7 +2,7 @@
 date = '2025-08-18T00:00:00'
 months = '2025/08'
 draft = false
-title = 'Anna's Archive、チームが明かす最新情報！'
+title = "Anna's Archive、チームが明かす最新情報！"
 tags = ["Anna's Archive", "海賊版", "著作権", "電子書籍", "デジタルコンテンツ"]
 featureimage = 'thumbnails/blue_green5.jpg'
 +++

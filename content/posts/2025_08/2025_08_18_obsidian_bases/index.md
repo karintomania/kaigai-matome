@@ -19,7 +19,7 @@ featureimage = 'thumbnails/light-orange3.jpg'
 
 
 
-{{<matomeQuote body="ところで、ドキュメントには書いてないみたいだけど、Basesの”new”ボタンを使うときにテンプレートやデフォルトのFrontmatter（作成日みたいに）を設定する方法を知ってる人いる？Bases以前の解決策はちょっとハック的でさ。＜code＞meta-bind-js-view<br>{memory^inputText} as title<br>---<br>const toShow = context.bound.title || ”TKTK”;<br>const str = `\\`\\`\\`meta-bind-button<br>label: New Project Idea  - ${toShow}<br>icon: ””<br>hidden: false<br>class: ””<br>tooltip: ””<br>id: ””<br>style: primary<br>actions:<br>  - type: templaterCreateNote<br>    templateFile: Templates/Project.md<br>    folderPath: Project Ideas<br>    fileName: ${toShow}<br>    openNote: true<br>\\`\\`\\``;<br>return engine.markdown.create(str)<br>＜/code＞" userName="raybb" createdAt="2025/08/18 23:19:44" color="#45d325">}}
+{{<matomeQuote body="ところで、ドキュメントには書いてないみたいだけど、Basesの”new”ボタンを使うときにテンプレートやデフォルトのFrontmatter（作成日みたいに）を設定する方法を知ってる人いる？Bases以前の解決策はちょっとハック的でさ。" userName="raybb" createdAt="2025/08/18 23:19:44" color="#45d325">}}
 
 
 

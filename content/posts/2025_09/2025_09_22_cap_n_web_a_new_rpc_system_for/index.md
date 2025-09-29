@@ -2,7 +2,7 @@
 date = '2025-09-22T00:00:00'
 months = '2025/09'
 draft = false
-title = 'Cap'n Web：ブラウザとウェブサーバーの新RPCシステム！JavaScriptのmap()が驚きの賢さで動く？'
+title = "Cap'n Web：ブラウザとウェブサーバーの新RPCシステム！JavaScriptのmap()が驚きの賢さで動く？"
 tags = ["RPC", "JavaScript", "Web開発", "ブラウザ", "ネットワーク"]
 featureimage = 'thumbnails/purple7.jpg'
 +++
